@@ -81,7 +81,7 @@ for (let i = 0; i < students.length; i++) {
 // ======================================
 // Task 8: Student Record System — Add & Find
 // ======================================
-students.push({ name: "Krishna", marks: 98 });
+students.push({ name: "Gokul", marks: 98 });
 
 let topStudent = students[0];
 
@@ -111,7 +111,7 @@ let student = {
     name: "Krishna",
     rollNumber: "24CSA118",
     age: 21,
-    marks: 98,
+    marks: 91,
     department: "Computer Science and Engineering"
 };
 
